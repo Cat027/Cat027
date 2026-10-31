@@ -1,4 +1,8 @@
-Hi, I'm Sávio Queiroz 👋
+# Hi, I'm Sávio Queiroz 👋
+
+I'm a college student focused on cybersecurity, currently learning Python, programming, and database development.
+
+## 🔐 About Me
 I'm a college student focused on cybersecurity, currently learning Python, programming, and database development.
 - 🔐 Working toward a career in cybersecurity.
 - 💼 Looking for an internship or an entry-level opportunity in cybersecurity.
